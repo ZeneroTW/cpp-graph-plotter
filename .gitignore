@@ -1,0 +1,18 @@
+# Скомпилированный бинарник
+graph
+
+# Visual Studio Code
+.vscode/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+
+# Объектные файлы
+*.o
+*.out
