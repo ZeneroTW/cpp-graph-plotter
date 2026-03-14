@@ -1,6 +1,6 @@
 # 📈 Function Graph Plotter
 
-> 🇷🇺 [Читать на русском](README_coursework.ru.md)
+> 🇷🇺 [Читать на русском](README.ru.md)
 
 A desktop application for plotting mathematical functions. The user enters a function of `x`, specifies the range, and the program renders an interactive graph in a window with coordinate axes.
 
