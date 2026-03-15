@@ -77,4 +77,4 @@ muParser supports standard math expressions:
 
 ---
 
-*Academic project (coursework) — RTU MIREA.*
+*Academic project (coursework) - RTU MIREA.*
